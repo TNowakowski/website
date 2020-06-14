@@ -1,4 +1,5 @@
 # website
 new testing repository
 For providing more test to the environment. ;) 
-## Here more changes
+## Getting started
+To get started with the projekt just clone the current repository using 'clone' command.
